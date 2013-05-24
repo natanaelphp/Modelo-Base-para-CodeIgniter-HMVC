@@ -1,7 +1,7 @@
 Modelo-Base-para-CodeIgniter-HMVC
 =================================
 
-Modelo Base para começar um modulo quando se usa HMVC no CodeIgniter.
+Modelo Base para começar um módulo quando se usa HMVC no CodeIgniter.
 
 
 Ao usar <a href="http://codeigniterbrasil.com/tutoriais/hmvc-no-codeigniter-com-modular-extensions/">HMVC no CodeIgniter</a> a estrutura de pastas muda de: 
@@ -19,4 +19,4 @@ application/modules/site/views/site.php
 </code></pre>
 
 
-Este repositório é uma estrutura básica de um modulo para ser colado em application/modules/nome-do-modulo.
+Este repositório é uma estrutura básica de um modulo para ser colado dentro de: application/modules/nome-do-seu-módulo.

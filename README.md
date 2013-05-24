@@ -19,4 +19,4 @@ application/modules/site/views/site.php
 </code></pre>
 
 
-Este repositório é uma estrutura básica de um modulo para ser colado dentro de: application/modules/nome-do-seu-módulo.
+Este repositório é uma estrutura básica de um modulo para ser colado dentro de: "application/modules/nome-do-seu-módulo".
